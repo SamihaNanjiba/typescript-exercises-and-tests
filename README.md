@@ -13,16 +13,27 @@ The main purpose of this repository is to practice basic JavaScript and/or TypeS
 The problems are generated with the help of ChatGPT, however, their solutions and the tests are entirely written by me.
 
 ## Topic Categories
-1. Arrays
-2. Strings
-3. Functions
-4. Objects
-5. Promises
-6. Asynchronous Programming
-7. Classes
-8. Event Handling
-9. Modules
-10. DOM Manipulation
+1. Arrays:
+    - Remove Duplicate, Merge Sorted, Rotate Array, Subarray Sum, Permutation, etc.
+2. Strings:
+    - Palindrome Check, Anagram Check, Reverse String, Wildcard Matching, Regex Parser, etc.
+3. Functions:
+    - Basic Closure, Function Composition, Currying, Memoization, Partial Application, Debounce, Throttle, Recursive Function, Function Pipeline and Async/Await.
+4. Objects:
+    - Shallow Clone, Merge Objects, Object Keys and Values, Deep Clone, Object Invert, Filter Object, Object Map, Merge Deep Objects, Object Difference, Flatten Object.
+5. Promises:
+    - Basic Promise Creation, Promise Chaining, Promise Rejection, Promise All, Promise Race, Promise Timeout, Promise Retry, Promise Progress, Promise Parallel Limit and Promise Waterfall.
+6. Asynchronous Programming:
+    - Simple Timeout, Fetch Data, Sequential Execution, Parallel Execution, Promise All Settled, Asynchronous Map, Throttle, Debounce, Caching with Async Function and Race Condition Prevention.
+7. Classes:
+    - Class Creation, Inheritance, Static Method, Getter and Setter, Class Extension, Class Composition, Class Decorator, Event Handling with Classes, Observable Pattern and Mixin Composition.
+8. Event Handling:
+    - Basic Event Listener, Custom Event Listener, Event Propagation, Event Delegation, Multiple Event Listeners, Event Bubbling, Event Emitter Class, Drag and Drop Implementation, Event Bus Implementation and Cross-Browser Compatibility.
+9. Modules:
+    - Basic Module Export, Default Export, Named Exports, Module with Dependencies, Module with Configuration, Module with Classes, Module with Asynchronous Operations, Module with Error Handling, Module with Caching and Module with Dynamic Import.
+10. DOM Manipulation:
+    - Text Content Manipulation, Element Style Manipulation, Element Creation and Insertion, Event Handling with DOM Elements, Element Attribute Manipulation, Element Removal, Dynamic Element Creation and Event Handling, Element Style Animation, Form Input Handling and Complex DOM Manipulation.
+
 
 ## Directory Structure
 
@@ -82,3 +93,6 @@ Another option will be to entirely remove my solutions from the solutions folder
 
 ### Tests
 This repository is setup with `Jest`, but feel free to remove it and use your own prefered framework, e.g. `Mocha` for writing unit tests.
+
+## Contributing
+If you'd like to contribute to this repository, via fixing any errors, bugs, updating the exercise problems and their sample test cases, please fork the project, create a new branch for your update or bug fix, and submit a pull request. Contributions are welcome!
